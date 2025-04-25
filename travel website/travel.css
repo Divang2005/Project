@@ -81,7 +81,7 @@ ul.menu {
 }
 
 /*=============================Banner=============================*/
-.banner {
+#banner {
   background-image: url("image/image 1.webp");
   background-size: cover;
   background-repeat: no-repeat;
@@ -182,7 +182,7 @@ ul.menu {
 }
 
 /*===========================Services===========================*/
-.services {
+#services {
   display: flex;
   flex-flow: row;
   align-items: center;
@@ -321,7 +321,7 @@ ul.menu {
 }
 
 /*=========================About Us=========================*/
-.about {
+#about {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
